@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5C3A6E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5C3A6E&size=35&center=true&vCenter=true&width=1000&lin es=Hi!+I'm+Daniel+and+I+enjoy+making+complex+things+simpler+for+everyone.;Currently+transitioning+into+Data.+Care+to+help?+:%29)](htt ps://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5C3A6E&size=35&center=true&vCenter=true&width=1000&lin es=Hi!+I'm+Daniel+and+I+enjoy+making+complex+things+simpler+for+everyone.;Currently+transitioning+into+Data.+Care+to+help?+:%29)](https://git.io/typing-svg)
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
