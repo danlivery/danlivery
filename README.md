@@ -44,7 +44,7 @@
 
 | 📜 Certificação | 🏫 Plataforma | 📅 Ano de conclusão | ✅ Status |
 |---|---|---|---|
-| Ciclo Básico | Indicium AI Academy | 2026 | Concluído |
+| Ciclo Básico em Dados, Negócios e IA | Indicium AI Academy | 2026 | Concluído |
 | Profissão Cientista de Dados | EBAC | 2027 | Em andamento |
 | Ciência de Dados | Gran Faculdade | 2028 | Em andamento |
 
@@ -71,27 +71,30 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[SEU-USUARIO]&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danlivery&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🗺️ Roadmap de Estudos 2025
+## 🗺️ Roadmap de Estudos EBAC 2026
 
-- [x] HTML & CSS Básico
-- [x] JavaScript Fundamentos
-- [ ] React.js
-- [ ] Node.js & APIs REST
-- [ ] Banco de Dados (PostgreSQL)
-- [ ] Docker & Deploy
+- [x] Fundamentos de Ciência de Dados e Machine Learning
+- [ ] Python para Análise de dados
+- [ ] Fundamentos da descoberta de dados - Storytelling, Elementos visuais e Estatística Básica
+- [ ] Pré-modelagem - Pré Processamento, Tipos de aprendizados, Correlação, Balanceamento e Variáveis Categóricas
+- [ ] Primeiros modelos - Regressão Linear, Estatística Aplicada, Aprendizagem Baysiana e Arvore de Decisão
+- [ ] Aprofundamento de Analytics - Looker Studio, Power BI, Bancos de Dados e SQL
+- [ ] Modelos avançados - Regressão Logística e Random Forest
+- [ ] Conceitos avançados em modelagem estatística - Regressão Conceitos avançados, Cross Validation e PCA
+- [ ] Técnicas avançadas em modelos de Machine Learning - Métodos Ensemble, Xgboost, SVM e Modelos de Linguagem
 
 ---
 
 <div align="center">
 
 ### 👀 Visitantes do Perfil
-![Visitor Count](https://profile-counter.glitch.me/[SEU-USUARIO]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/danlivery/count.svg)
 
 *"O aprendizado é uma jornada, não um destino."* 🌟
 
