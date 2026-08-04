@@ -60,23 +60,6 @@
 
 ---
 
-## 📊 Minhas estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danlivery&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danlivery&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=danlivery&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🗺️ Roadmap de Estudos EBAC 2026
 
 - [x] Fundamentos de Ciência de Dados e Machine Learning
@@ -92,9 +75,6 @@
 ---
 
 <div align="center">
-
-### 👀 Visitantes do Perfil
-![Visitor Count](https://profile-counter.glitch.me/danlivery/count.svg)
 
 *"O aprendizado é uma jornada, não um destino."* 🌟
 
